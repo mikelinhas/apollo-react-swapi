@@ -1,4 +1,4 @@
-# Nexum Fullstack Project
+# APOLLO - REACT - SWAPI - Project
 
 Star Wars saga listing from [https://swapi.dev](http://swapi.dev). *swapi.co* is no longer available.
 
